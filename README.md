@@ -6,6 +6,7 @@ _This is an italic text._
 
 </header>
 
+![Image of UPenn Library](https://penntoday.upenn.edu/sites/default/files/styles/event_large/public/2020-03/library_2_istock_600x400.jpg?h=252f27fa&itok=ks7nmoBy)
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
