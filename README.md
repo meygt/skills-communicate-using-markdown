@@ -15,6 +15,13 @@ _This is an italic text._
   Encourage users to open new tabs for steps!
 -->
 
+```
+#Python
+
+print("Hello World")
+
+```
+
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
