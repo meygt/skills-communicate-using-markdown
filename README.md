@@ -1,18 +1,17 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Course Header
 
-# Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+      
+_This is an italic text._
 
 </header>
 
+![Image of UPenn Library](https://penntoday.upenn.edu/sites/default/files/styles/event_large/public/2020-03/library_2_istock_600x400.jpg?h=252f27fa&itok=ks7nmoBy)
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -20,6 +19,14 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+
+ start-markdown
+```
+#Python
+
+print("Hello World")
+
+```
 
 ## Step 1: Add headers
 
@@ -35,6 +42,22 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### Example
 
+
+## Step 1: Add headers
+
+_Welcome to "Communicate using Markdown"! :wave:_
+
+**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+
+- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+- Files with the `.md` or `.markdown` extension
+- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+
+**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+
+### Example
+
+ main
 ```md
 # This is an `<h1>` header, which is the largest
 
@@ -78,4 +101,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+#### I changed only a little in this file because I do not have an idea of what to add extra. I have understood what this is about and that's enough for me.
 </footer>
