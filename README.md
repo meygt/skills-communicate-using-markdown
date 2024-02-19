@@ -2,6 +2,11 @@
 
 # Course Header
 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+      
 _This is an italic text._
 
 </header>
